@@ -1,0 +1,26 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-05-03T19:15:02.368275",
+    "startedAt": "2022-05-03T19:14:57.513131",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "source/api",
+        "-vv",
+        "-s"
+    ],
+    "state": "running",
+    "program": "C:\\Users\\silva\\anaconda3\\envs\\deploy\\Scripts\\pytest-script.py",
+    "codePath": "..\\..\\anaconda3\\envs\\deploy\\Scripts\\pytest-script.py",
+    "git": {
+        "remote": "https://github.com/silvanolopes/mlops.git",
+        "commit": "a4f88317cd4102965527e8ac42b9e034f40bacee"
+    },
+    "email": "silvanocljunior@gmail.com",
+    "root": "C:/Users/silva/projects/mlops",
+    "host": "LOPES",
+    "username": "silva",
+    "executable": "C:\\Users\\silva\\anaconda3\\envs\\deploy\\python.exe"
+}

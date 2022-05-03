@@ -1,0 +1,25 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-05-03T18:54:12.333464",
+    "startedAt": "2022-05-03T18:54:07.435084",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "source.api.main:app",
+        "--reload"
+    ],
+    "state": "running",
+    "program": "C:\\Users\\silva\\anaconda3\\envs\\deploy\\Scripts\\uvicorn-script.py",
+    "codePath": "..\\..\\anaconda3\\envs\\deploy\\Scripts\\uvicorn-script.py",
+    "git": {
+        "remote": "https://github.com/silvanolopes/mlops.git",
+        "commit": "a4f88317cd4102965527e8ac42b9e034f40bacee"
+    },
+    "email": "silvanocljunior@gmail.com",
+    "root": "C:/Users/silva/projects/mlops",
+    "host": "LOPES",
+    "username": "silva",
+    "executable": "C:\\Users\\silva\\anaconda3\\envs\\deploy\\python.exe"
+}
